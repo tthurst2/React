@@ -13,8 +13,5 @@ const NavBar = () => {
     </nav>
   );
 };
-class Navbar extends Component {
-  render() {}
-}
 
 export default Navbar;

@@ -14,4 +14,4 @@ const NavBar = props => {
   );
 };
 
-export default Navbar;
+export default NavBar;

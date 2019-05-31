@@ -1,0 +1,1 @@
+A series of react apps - mostly used for learning abitrary amounts of web development.

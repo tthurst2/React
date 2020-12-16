@@ -5,11 +5,11 @@
   "dependencies": {
     "create-react-app": "^3.0.1",
     "deep-extend": "^0.6.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "^3.4.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.4",
     "tar": "^4.4.10",
-    "yarn": "^1.22.5",
+    "yarn": "^1.22.10",
     "yarn-install": "^1.0.0"
   },
   "scripts": {

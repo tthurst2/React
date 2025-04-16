@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "create-react-app": "^3.0.1",
+    "create-react-app": "^5.1.0",
     "deep-extend": "^0.6.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "^5.0.1",
-    "tar": "^4.4.10",
+    "react-scripts": "^3.0.1",
+    "tar": "^7.4.3",
     "yarn": "^1.22.10",
     "yarn-install": "^1.0.0"
   },
